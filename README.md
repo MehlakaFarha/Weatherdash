@@ -1,3 +1,4 @@
 # Weatherdash
 This is my first repository.
-author: Mehlaka Farha
+<br>
+author: Mehlaka Farha.
